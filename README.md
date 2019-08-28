@@ -1,2 +1,1 @@
-# laravel-github-actions
-Github Actions template for Laravel app
+# Github Actions template for Laravel app
